@@ -1,7 +1,7 @@
 ## Hey there, my name is Maria! ✨
 
 
-<img src="https://github.com/mashhkensss/mashhkensss/blob/main/kitten_pic.jpg" width="20%" align="left" hspace="20">
+<img src="https://github.com/mashhkensss/mashhkensss/blob/main/kitten_pic.jpg" width="30%" align="left" hspace="20">
 
 - 🌙 Maria Lomakova, 19 y.o.
 - 🎓 ITMO University Software Engineering student'27
