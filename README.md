@@ -1,13 +1,14 @@
 ## Hey there, my name is Maria! ✨
 
-
+<!--
 <img src="https://github.com/mashhkensss/mashhkensss/blob/main/kitten_pic.jpg" width="35%" align="left" hspace="20">
+-->
 
-- 🌙 Maria Lomakova, 20
-- 🎓 ITMO University Software Engineering student'27
-- 🧠 Currently studying Java, Linux, Bash
-- 🎀 Speaking: Russian.native, English.C1
-- 💌 Reach me: [Telegram](https://t.me/mashalomakova)  
+- Maria Lomakova, 20
+- ITMO University Software Engineering student'27
+- Currently studying Go
+- Speaking: Russian.native, English.C1
+- Reach me: [Telegram](https://t.me/mashalomakova)  
 
 ### Skills:
 <p align="left">
