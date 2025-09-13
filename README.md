@@ -6,6 +6,7 @@
 
 - Maria Lomakova, 20
 - ITMO University Software Engineering student'27
+- (also on the High-Load Systems Development track, ITMO × Avito.tech)  
 - Currently studying Go
 - Speaking: Russian.native, English.C1
 - Reach me: [Telegram](https://t.me/mashalomakova)  
