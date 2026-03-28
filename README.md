@@ -7,7 +7,7 @@
 - Мария
 - ИТМО ФИТиП Разработка программного обеспечения'27  |  ITMO University Software Engineering student'27
 - Специализация: Разработка высоконагруженных систем от Avito.tech  |  High-Load Systems Development track, ITMO × Avito.tech
-- Сейчас изучаю Go & Swift  |  Currently studying Go & Swift
+- Сейчас изучаю Go & Swift
 - Английский C1
 - Тг: [Telegram](https://t.me/mashalomakova)  
 
