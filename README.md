@@ -4,12 +4,12 @@
 <img src="https://github.com/mashhkensss/mashhkensss/blob/main/kitten_pic.jpg" width="35%" align="left" hspace="20">
 -->
 
-- Maria Lomakova, 20
-- ITMO University Software Engineering student'27
-- (also on the High-Load Systems Development track, ITMO × Avito.tech)  
-- Currently studying Go
-- Speaking: Russian.native, English.C1
-- Reach me: [Telegram](https://t.me/mashalomakova)  
+- Мария
+- ИТМО ФИТиП Разработка программного обеспечения'27  |  ITMO University Software Engineering student'27
+- Специализация: Разработка высоконагруженных систем от Avito.tech  |  High-Load Systems Development track, ITMO × Avito.tech
+- Сейчас изучаю Go & Swift  |  Currently studying Go & Swift
+- Английский C1
+- Тг: [Telegram](https://t.me/mashalomakova)  
 
 
 
